@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dillon Sareerat</h1>
 <h3 align="center">A passionate Software Developer</h3>
+img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d78d141-1f64-44c8-976b-7321284e5147/dfjfdbh-02721342-e03d-4748-965f-f5fd5773baba.png"
 
 - 🔭 I’m currently working on [Around the US](https://chefdill.github.io/se_project_aroundtheus/)
 
